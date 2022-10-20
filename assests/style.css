@@ -37,7 +37,7 @@ nav a {
     min-height: 100px;
     margin-right: 2%;
     margin-left: 0%;
-    padding-right: 0%;
+    padding-right: 2%;
 }
 
 .myimage {
@@ -59,9 +59,9 @@ nav a {
 .Works h1 {
     border-right: 5px solid black;
     min-height: 100px;
-    margin-right: 5%;
-    margin-left: 10%;
-    padding-right: 3%;
+    margin-right: 2%;
+    margin-left: 0%;
+    padding-right: 2%;
 }
 
 .flex-div {
@@ -79,11 +79,12 @@ nav a {
 .refactor {
     /* flex-basis: 65%; */
     height: 500px;
-    width: 600px;
+    width: 840px;
     background-image: url("https://images.pexels.com/photos/1025469/pexels-photo-1025469.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
+    
 }
 
 main {
@@ -100,20 +101,25 @@ main {
 }
 
 
-
-
-
 .HTML{
     height: 100px;
-    width: 300px;
+    width: 500px;
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
     background-image: url("https://images.pexels.com/photos/13060861/pexels-photo-13060861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+margin-right:15%;
+margin-top: 1%;
+color:blueviolet;
+
 }
 
 .sub{
     display: flex;
+}
 
+.Contact{
+    margin-top: 15%;
+    
 }
     
